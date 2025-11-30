@@ -42,7 +42,8 @@ while True:
 
 ```
 ## OUTPUT
-![Uploading image.png…]()
+<img width="1032" height="329" alt="image" src="https://github.com/user-attachments/assets/38299304-c328-4d45-a205-2fb30d91a574" />
+
 
 
 
